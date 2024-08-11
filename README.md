@@ -1,6 +1,6 @@
-# Substrate-stdlib for Pallet Move
+# substrate-stdlib for pallet-move
 
-This repository is part of the [Pallet Move](https://github.com/eigerco/pallet-move) project, which enables users to write smart contracts in Substrate-based blockchains with the Move language.
+This repository is part of the [pallet-move](https://github.com/eigerco/pallet-move) project, which enables users to write smart contracts in Substrate-based blockchains with the Move language.
 This standard library can be included to provide elementary Substrate functions in Move smart contracts.
 
 Currently, it contains the module:
@@ -9,14 +9,14 @@ Currently, it contains the module:
 
 ## See also
 
-- [Pallet Move](https://github.com/eigerco/pallet-move) - Main repo containing the Move pallet.
-- [Move-stdlib](https://github.com/eigerco/move-stdlib) - Provides elementary Move functions in Move smart contracts. 
-- [Substrate-Move](https://github.com/eigerco/substrate-move) - A modified MoveVM fork for the use of MoveVM in the pallet-move repo.
-- [Smove](https://github.com/eigerco/smove) - Handles the gas estimation, the serialization of script and module transactions, and the inspection of the module's ABIs.
+- [pallet-move](https://github.com/eigerco/pallet-move) - Main repo containing the Move pallet.
+- [move-stdlib](https://github.com/eigerco/move-stdlib) - Provides elementary Move functions in Move smart contracts. 
+- [substrate-move](https://github.com/eigerco/substrate-move) - A modified MoveVM fork for the use of MoveVM in the pallet-move repo.
+- [smove](https://github.com/eigerco/smove) - Handles the gas estimation, the serialization of script and module transactions, and the inspection of the module's ABIs.
 
 ## License
 
-Substrate-stdlib is licensed as [MIT](LICENSE).
+substrate-stdlib is licensed as [MIT](LICENSE).
 
 ## About [Eiger](https://www.eiger.co)
 
